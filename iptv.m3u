@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1, SD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/164952953-dc0077a9-d521-457b-9789-ad4fc0f0d33a.png" SD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
 #EXTVLCOPT:http-referrer=https://mitom.90phutttttttt.xyz/
 https://jq9sucdqmfliv.vcdn.cloud/123SD/index.m3u8|Referer=https://mitom.90phutttttttt.xyz/
-#EXTINF:-1, HD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/164952953-dc0077a9-d521-457b-9789-ad4fc0f0d33a.png" HD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
 #EXTVLCOPT:http-referrer=https://mitom.90phutttttttt.xyz/
 https://jq9sucdqmfliv.vcdn.cloud/123HD/index.m3u8|Referer=https://mitom.90phutttttttt.xyz/
-#EXTINF:-1, FullHD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/164952953-dc0077a9-d521-457b-9789-ad4fc0f0d33a.png" FullHD 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
 #EXTVLCOPT:http-referrer=https://mitom.90phutttttttt.xyz/
 https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://mitom.90phutttttttt.xyz/
-#EXTINF:-1, Nhà Đài 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/164952953-dc0077a9-d521-457b-9789-ad4fc0f0d33a.png" Nhà Đài 09:00 05/05/2022 Suns - Mavericks (BLV Âu Men)
 #EXTVLCOPT:http-referrer=https://mitom.90phutttttttt.xyz/
 https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer=https://mitom.90phutttttttt.xyz/
